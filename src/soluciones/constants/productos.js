@@ -1,3 +1,3 @@
-export const productos = ['Curso de React', 'Curso de Vue', 'Curso de Angular', 'Python']
+export const productos = ['Curso de React', 'Curso de Vue', 'Curso de Angular']
 
-export const productosCondicional = ['Vino']
+export const productosCondicional = []
