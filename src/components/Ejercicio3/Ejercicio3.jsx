@@ -1,6 +1,6 @@
 import ListaProductosCondicional from "./ListaCondicional"
-import { productosCondicional } from "../../constants/productos"
 import TituloEjercicio from "../TituloEjercicio"
+import { productos, productosCondicional } from "../../constants/productos"
 
 export default function Ejercicio3(){
     return(
